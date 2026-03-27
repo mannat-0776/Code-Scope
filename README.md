@@ -109,4 +109,4 @@ codescope/
 
 ---
 
-Made with ◈ by [Mannat](https://github.com/yourusername)
+Made with ◈ by [Mannat](https://github.com/mannatwalia-0776)
